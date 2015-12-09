@@ -1,2 +1,2 @@
 # java-practice-problems
-Java practice written by students of varying difficulty
+Java practice problems of varying difficulty written by students
