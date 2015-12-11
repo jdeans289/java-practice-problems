@@ -7,7 +7,7 @@
 ##Overview
 Write a program that takes a list of four numbers and returns the average.  
 ##Input
-The first number on a line by itself tells how many lists are to follow. Each list is separated by spaces and on its own line.  
+The first integer, `n`, tells how many lists are to follow. Each of the next `n` lines consist of 4 integers.  
 ##Output
 Print in `double` format, with at least one decimal place.  
 ##Example Input File:

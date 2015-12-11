@@ -4,7 +4,7 @@ import java.io.*;
 public class Average {
     public static void main (String[] args) throws Exception
     {
-        Scanner scan = new Scanner(new File("averageJudge.dat"));
+        Scanner scan = new Scanner(new File("average.in"));
         int probs = scan.nextInt();
         scan.nextLine();
         for (int i = 0; i < probs; i++)
