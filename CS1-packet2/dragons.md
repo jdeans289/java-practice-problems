@@ -1,21 +1,10 @@
-<<<<<<< HEAD
-#Where Are My Dragons?!??!!!?
-=======
 #Where are my dragons?!?!?!?!!!?  
->>>>>>> 209944ceb8f0116c3183751e6ea75dcdebacbcd1
 
-| Program Name | Input File |
-|--------------|------------|
+|  Program Name  |  Input File  |
+|----------------|--------------|
 | `Dragons.java` | `dragons.in` |  
 
 ##Overview
-<<<<<<< HEAD
-Print the entire input file. Do not hardcode this.  
-
-##Example Input File  
-```
-                                              ,....,. 
-=======
 Print the exact content of the input file. This should NOT be hard coded.
 
 ##Input  
@@ -27,7 +16,6 @@ The exact content of the input file, spaces and all.
 ##Example Input File  
 ```
                                              ,....,. 
->>>>>>> 209944ceb8f0116c3183751e6ea75dcdebacbcd1
                                           ..''   .' 
                                        .'"       | 
                                     .''          \ 
@@ -82,20 +70,13 @@ The exact content of the input file, spaces and all.
                / .' 
               / ' 
              /.' 
-<<<<<<< HEAD
              ' 
-=======
              '
->>>>>>> 209944ceb8f0116c3183751e6ea75dcdebacbcd1
 ```
   
 ##Example Output To Screen
 ```
-<<<<<<< HEAD
-                                              ,....,. 
-=======
                                              ,....,. 
->>>>>>> 209944ceb8f0116c3183751e6ea75dcdebacbcd1
                                           ..''   .' 
                                        .'"       | 
                                     .''          \ 
@@ -150,10 +131,6 @@ The exact content of the input file, spaces and all.
                / .' 
               / ' 
              /.' 
-<<<<<<< HEAD
              ' 
-```
-=======
              '
 ```
->>>>>>> 209944ceb8f0116c3183751e6ea75dcdebacbcd1

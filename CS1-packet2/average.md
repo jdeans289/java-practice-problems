@@ -1,8 +1,8 @@
 #Average
 
-|  Program Name  |  Input File   |
-|----------------|---------------|
-| `Average.java` | `average.dat` | 
+|  Program Name  |  Input File  |
+|----------------|--------------|
+| `Average.java` | `average.in` | 
   
 ##Overview
 Write a program that takes a list of four numbers and returns the average.  
