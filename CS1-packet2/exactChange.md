@@ -1,8 +1,8 @@
 #Exact Change 
 
-|   Program Name    |  Input File  |
-|-------------------|--------------|
-|  exactChange.java | exchange.txt |  
+|    Program Name     |   Input File   |
+|---------------------|----------------|
+|  `exactChange.java` | `exchange.tx`t |  
 
 ##Overview
 Bob is the manager at a Corner Store located somewhere on ID10T street. Bob has run into a serious problem that he must find a solution too. He has no clue how to calculate change!!! Write Bob some code to calculate exact change and he will be very grateful :)  
