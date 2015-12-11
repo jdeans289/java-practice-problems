@@ -14,7 +14,11 @@ A list of integers separated by spaces.
 The maximum value in the list. 
   
 ##Example Input File  
-`4 82 654 32 2 5 78 -1334`  
+```
+4 82 654 32 2 5 78 -1334
+```  
   
 ##Example Output To Screen
-`654`
+```
+654
+```
