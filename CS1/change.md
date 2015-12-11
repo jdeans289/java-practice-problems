@@ -2,7 +2,7 @@
 
 | Program Name | Input File |
 |--------------|------------|
-| `Change.java` | `change.txt` |  
+| `Change.java` | `change.in` |  
 
 ##Overview
 Bob is the manager at a Corner Store located somewhere on ID10T street. Bob has run into a serious problem that he must find a solution too. He has no clue how to calculate change!!! Write Bob some code to calculate change and he will be very grateful :)  
