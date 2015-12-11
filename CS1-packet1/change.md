@@ -11,10 +11,10 @@ Bob is the manager at a Corner Store located somewhere on ID10T street. Bob has 
 The first line of input contains the number of test cases to run. The next line contains 2 integers: the cost, amount paid.  
   
 ##Output
-Output should contain the string, "Change: " followed by the amount of change which needs to be in the currency format  
+Output should contain the string, `Change: ` followed by the amount of change which needs to be in the currency format  
 
 ##Hint
-I would suggest reading up on how to use printf()
+I would suggest reading up on how to use `printf()`
   
 ##Example Input File  
 ```
