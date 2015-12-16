@@ -1,0 +1,19 @@
+title: Average
+languages:
+  - Java
+filename: Average.java
+overview: "Write a program that takes a list of four numbers and returns the average."
+input: "The first integer, `n`, tells how many lists are to follow. Each of the next `n` lines consist of 4 integers."
+output: "Print in `double` format, with at least one decimal place."
+cases:
+  - files:
+      average.in: |
+        3
+        5 3 7 3
+        2 2 2 2
+        21 134 364 278
+    stdin: ""
+    stdout: |
+      4.5
+      2.0
+      199.5
