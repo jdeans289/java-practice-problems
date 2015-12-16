@@ -1,0 +1,12 @@
+title: Maximum
+languages:
+  - Java
+filename: Maximum.java
+overview: "Take a list of integers of unknown length and return the maximum value."
+input: "A list of integers separated by spaces."
+output: "The maximum value in the list. "
+cases:
+  - files:
+      maximum.in: "4 82 654 32 2 5 78 -1334"
+    stdin: ""
+    stdout: "654"

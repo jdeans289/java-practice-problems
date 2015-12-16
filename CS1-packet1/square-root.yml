@@ -1,0 +1,21 @@
+title: Square Root
+languages:
+  - Java
+filename: Root.java
+overview: "Print the square root of a number."
+input: "The input will consist of a number `n` such that `0 < n < 10` indicating the number of cases in the input. Each consecutive line will consist of one integer `x` such that `0 < x < 1,000,000`"
+output: "Your program should print the square root of `x` truncated to 2 decimal places."
+cases:
+  - files:
+      root.in: |
+        4
+        16
+        78
+        994
+        65482
+    stdin: ""
+    stdout: |
+      4
+      8.83
+      31.52
+      255.89
